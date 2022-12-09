@@ -1,0 +1,657 @@
+Date: Tue, 23 Aug 2022 09:26:23 +0000 (UTC)
+Message-ID: <1318201403.3.1661246783492@5a06f08da0b7>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2_1112018033.1661246783491"
+
+------=_Part_2_1112018033.1661246783491
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>About</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>About</h1>
+    <div class=3D"Section1">
+        <p><a href=3D"https://www.bulcode.com/about-us" data-card-appearanc=
+e=3D"inline" class=3D"external-link" rel=3D"nofollow">https://www.bulcode.c=
+om/about-us</a> </p>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"819a9b59-57ab-494c-b43a-e88=
+08f03487c" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 380.0px;">
+<col style=3D"width: 380.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Environment</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Windows 10</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Test Date</p></td>
+<td class=3D"confluenceTd"><p>28.03.2022-31.03.2022</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Tester</p></td>
+<td class=3D"confluenceTd"><p>Waleria Kotenko</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Additional Environment</p></td>
+<td class=3D"confluenceTd"><p>Windows 7, Android 9 -11 (you can add your en=
+vironment here)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Test Case</p></td>
+<td class=3D"confluenceTd"><p>About</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>This test case provides a basic outline of the functionalities o=
+f the page About of the website </strong><a href=3D"https://www.bulcode.com=
+/about-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"n=
+ofollow">https://www.bulcode.com/about-us</a> </p>
+<h2 id=3D"About-Step1-ButtonAbout"><strong>Step 1 - Button About</strong></=
+h2>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"810d9576-719f-48a6-a5d5-426=
+e3a88139f" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Preconditions</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Steps to reproduce</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Expected result</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Status</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/" =
+data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofollow">ht=
+tps://www.bulcode.com/</a></p><p>2. Click About at the top of the page</p><=
+/td>
+<td class=3D"confluenceTd"><p>The page About should open</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/" =
+data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofollow">ht=
+tps://www.bulcode.com/</a></p><p>2. Reduce the screen to the smallest possi=
+ble size</p><p>3. Click the hamburger menu in the upper right side</p><p>4.=
+ Click About</p></td>
+<td class=3D"confluenceTd"><p>The <em>About </em>button should remain visib=
+le and active</p></td>
+<td class=3D"confluenceTd"><p>Passed</p><p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/" =
+data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofollow">ht=
+tps://www.bulcode.com/</a></p><p>2. Hover your mouse over About and with th=
+e right button of the mouse open DevTools to inspect the element</p></td>
+<td class=3D"confluenceTd"><p>There should not be error messages in DevTool=
+s</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/" =
+data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofollow">ht=
+tps://www.bulcode.com/</a></p><p>2. Hover your mouse over About and with th=
+e right button of the mouse open a new tab</p></td>
+<td class=3D"confluenceTd"><p>The page About should open in a new tab</p></=
+td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"About-Step2-Linkstoinformationaboutcolleagues"><strong>Step 2 - L=
+inks to information about colleagues</strong></h2>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"af66a956-37b8-4d10-ace5-18c=
+5f33b47dc" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Preconditions</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Steps to reproduce</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Expected result</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Status</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Scroll down to the <em=
+>...AND HERE IS WHO WE ARE! </em>section</p><p>3. Click each colleague's na=
+me one by one</p></td>
+<td class=3D"confluenceTd"><p>The page with information about each colleagu=
+e should open</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Reduce the screen to t=
+he smallest possible size</p><p>3. Scroll down to the <em>...AND HERE IS WH=
+O WE ARE!</em> section</p><p>4. Click each colleague's name one by one</p><=
+/td>
+<td class=3D"confluenceTd"><p>The links to the pages with information about=
+ each colleague should remain visible and active</p></td>
+<td class=3D"confluenceTd"><p>Passed</p><p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Scroll down to the <em=
+>...AND HERE IS WHO WE ARE!</em> section</p><p>3. Hover your mouse over eac=
+h colleague=E2=80=99s name one by one and with the right button of the mous=
+e open DevTools to inspect each element</p></td>
+<td class=3D"confluenceTd"><p>There should not be error messages in DevTool=
+s</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Hover your mouse over =
+each colleague=E2=80=99s name one by one and with the right button of the m=
+ouse open a new tab</p></td>
+<td class=3D"confluenceTd"><p>The pages with information about each colleag=
+ue should open in new tabs</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"About-Step3-Backtotoparrow"><strong>Step 3 - Back to top arrow</s=
+trong></h2>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"dd043f9b-200b-4201-9ecb-90e=
+80f3e9d51" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Preconditions</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Steps to reproduce</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Expected result</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Status</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Scroll down until you =
+see an arrow icon in the lower right corner of the page</p><p>3. Click the =
+arrow</p></td>
+<td class=3D"confluenceTd"><p>The website should be returned to the top of =
+the page</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Reduce the screen to t=
+he smallest possible size</p><p>3. Scroll down until you see an arrow icon =
+in the lower right corner of the page</p><p>4. Click the arrow</p></td>
+<td class=3D"confluenceTd"><p>The arrow button should remain visible and ac=
+tive</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Scroll down until you =
+see an arrow icon in the lower right corner of the page</p><p>3. Hover your=
+ mouse over the arrow button and with the right button of the mouse open De=
+vTools to inspect the element</p></td>
+<td class=3D"confluenceTd"><p>There should not be error messages in DevTool=
+s</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Scroll down until you =
+see an arrow icon in the lower right corner of the page</p><p>3. Hover your=
+ mouse over the arrow button and with the right button of the mouse open a =
+new tab</p></td>
+<td class=3D"confluenceTd"><p>The page About should open in a new tab</p></=
+td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"About-Step4-Browseourvacancies"><strong>Step 4 - Browse our vacan=
+cies</strong></h2>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"d0f56fa4-0fd7-4b1f-8370-356=
+a1f95f7bf" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Preconditions</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Steps to reproduce</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Expected result</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Status</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Scroll down to We thin=
+k you'll fit in here. Browse our vacancies</p><p>3. Click <em>Browse our va=
+cancies</em></p></td>
+<td class=3D"confluenceTd"><p>The page Careers should open</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Reduce the screen to t=
+he smallest possible size</p><p>3. Scroll down to We think you'll fit in he=
+re. Browse our vacancies</p><p>4. Click <em>Browse our vacancies</em></p></=
+td>
+<td class=3D"confluenceTd"><p><em>Browse our vacancies </em>button should r=
+emain visible and active</p></td>
+<td class=3D"confluenceTd"><p>Passed</p><p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Scroll down to We thin=
+k you'll fit in here. Browse our vacancies</p><p>3. Hover your mouse over <=
+em>Browse our vacancies</em> and with the right button of the mouse open De=
+vTools to inspect each element</p></td>
+<td class=3D"confluenceTd"><p>There should not be error messages in DevTool=
+s</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Hover your mouse over =
+<em>Browse our vacancies</em> and with the right button of the mouse open a=
+ new tab</p></td>
+<td class=3D"confluenceTd"><p>The page Careers should open in a new tab</p>=
+</td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"About-Step5-Horizontalscrollarrows"><strong>Step 5 - Horizontal s=
+croll arrows</strong></h2>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"326ca8a9-fe30-4afb-b26c-352=
+d80fa9d0f" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Preconditions</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Steps to reproduce</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Expected result</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Status</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Scroll down to We've D=
+one It Hundreds Of Times Before!</p><p>3. Click the arrows to the left and =
+the right one by one</p></td>
+<td class=3D"confluenceTd"><p>The comments of the clients should scroll to =
+the left and the right </p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Reduce the screen to t=
+he smallest possible size</p><p>3. Scroll down to We've Done It Hundreds Of=
+ Times Before!</p></td>
+<td class=3D"confluenceTd"><p>The arrows disappear and we can scroll the co=
+mments of the clients with the mouse</p></td>
+<td class=3D"confluenceTd"><p>Passed</p><p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Scroll down to We've D=
+one It Hundreds Of Times Before!</p><p>3. Hover your mouse over the arrow b=
+uttons one by one and with the right button of the mouse open DevTools to i=
+nspect the elements</p></td>
+<td class=3D"confluenceTd"><p>There should not be error messages in DevTool=
+s</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"About-Step6-Hireadeveloper!"><strong>Step 6 - Hire a developer!</=
+strong></h2>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"b3cb6c68-d6ab-45f2-ae2f-cb3=
+48da5bddf" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 190.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Preconditions</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Steps to reproduce</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Expected result</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Status</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Scroll down to the <em=
+>Ready To Meet Us? </em>section</p><p>3. Click Hire a developer!</p></td>
+<td class=3D"confluenceTd"><p>The page Contact us should open</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Reduce the screen to t=
+he smallest possible size</p><p>3. Scroll down to the <em>Ready To Meet Us?=
+ </em>section</p><p>4. Click <em>Hire a developer!</em></p></td>
+<td class=3D"confluenceTd"><p><em>Hire a developer!</em> button should rema=
+in visible and active</p></td>
+<td class=3D"confluenceTd"><p>Passed</p><p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Scroll down to the <em=
+>Ready To Meet Us?</em> section</p><p>3. Hover your mouse over <em>Hire a d=
+eveloper! </em>and with the right button of the mouse open DevTools to insp=
+ect the element</p></td>
+<td class=3D"confluenceTd"><p>There should not be error messages in DevTool=
+s</p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>1. Open <a href=3D"https://www.bulcode.com/ab=
+out-us" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofo=
+llow">https://www.bulcode.com/about-us</a> </p><p>2. Hover your mouse over =
+<em>Hire a developer!</em> and with the right button of the mouse open a ne=
+w tab</p></td>
+<td class=3D"confluenceTd"><p>The page Contact us should open in a new tab<=
+/p></td>
+<td class=3D"confluenceTd"><p>Passed</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_2_1112018033.1661246783491--
